@@ -55,7 +55,7 @@ Even with focusing on a particular month, August in this case, service utilizati
 
 All visualizations can be accessed for further drilling down below:
 
-[link to dashboard](https://public.tableau.com/profile/jf4511#!/vizhome/Challenge14_16179329455140/Story1)
+[Link to Dashboard](https://public.tableau.com/profile/jf4511#!/vizhome/Challenge14_16179329455140/Story1)
 
 
 ## Analysis Results Summary
